@@ -1,6 +1,12 @@
-# FraudGuard Lite 🛡️
+[![Java](https://img.shields.io/badge/Java-17+-blue)](https://www.oracle.com/java/)
+[![Project type](https://img.shields.io/badge/Project-Console%20App-lightgrey)]()
+[![Status](https://img.shields.io/badge/Status-Completed-brightgreen)]()
 
-**FraudGuard Lite** is a small Java console application that simulates basic bank transactions and detects potentially fraudulent activity using modular rules and simple risk scoring. This project is designed as a learning/demo project to showcase Object-Oriented Design, rule-based detection logic, and an extendable code structure — suitable for a resume and interview discussion.
+
+# FraudGuard Lite 
+
+**FraudGuard Lite** is a lightweight Java console application that simulates bank-style transactions and detects suspicious activity using a modular rule engine and risk scoring. 
+It demonstrates core backend engineering skills: OOP design, pluggable rule modules (High Amount, Velocity, Blacklist), transaction validation, alerting and real-world fintech concepts .
 
 ---
 
