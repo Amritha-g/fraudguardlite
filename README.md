@@ -45,7 +45,7 @@ fraudguardlite/
 ## Screenshots
 
 **Create accounts (menu + account creation):**  
-![Create accounts](screenshots/create_accounts.png)
+![Create accounts](screenshots/console_menu.png)
 
 **High-value transaction flagged as fraud:**  
 ![Fraud transaction](screenshots/fraud_transaction.png)
